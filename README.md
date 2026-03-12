@@ -1,2 +1,2 @@
-# -Users-mariarizova-Downloads-README.md
-/Users/mariarizova/Downloads/README.md
+Назва проєкту: TransformYou; 
+ПІБ учасників команди: Куцевич Анна Миколаївна, Рижова Марія Володимирівна
